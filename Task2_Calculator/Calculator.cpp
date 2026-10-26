@@ -43,7 +43,7 @@ int main()
 		float division = num1 / num2;
 		cout << "divison: " << division << endl;
 		}else
-		{cout<<"Cannot Substract by zero: " << num1; }
+		{cout<<"Cannot divide by zero: " << num1; }
 	}
 	else
 	{
